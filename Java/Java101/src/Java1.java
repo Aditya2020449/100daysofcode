@@ -5,5 +5,6 @@ public class Java1
 
 	{
 		System.out.println("Hello There");
+		System.out.println("General Kenobi");
 	}
 }				
