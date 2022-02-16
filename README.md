@@ -6,3 +6,6 @@ My Repository to track my 100 days of learning to code.
 - Day2. 30th August 2021.
     - Nothing. 😔
 
+---
+
+- Hopefully I come back to this. 😅
